@@ -1,7 +1,9 @@
 
 
+maxExperience = 100
+levelUPProportion = 1.1
 
-levelUPValue=10
+defaultPenaltyPercent = 10
 
 weightMoveRange = 1
 weightIsLight = 1
